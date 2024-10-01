@@ -13,6 +13,10 @@ ul {
     list-style: none;
 }
 
+p span {
+    font-weight: 600;
+}
+
 body {
     /* font-family: "Playwrite DE Grund", cursive;  */
     font-family: "Jost", sans-serif;
