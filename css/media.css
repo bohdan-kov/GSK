@@ -345,9 +345,7 @@
     bottom: 15px;
     top: auto;
     }
-    .header__list {
-        margin-left: 180px;
-    }
+
     .header__item {
     margin: 18px 0;
     }
@@ -406,14 +404,12 @@
         padding: 0 35px;
         padding-top: 20px;
     }
-    .header__list {
-        margin-left: 100px;
-    }
+
     .services-content {
         display: block;
     }
     .contact__form-input-img {
-        max-width: 300px;
+        max-width: 275px;
     }
     .contact__top-item:nth-child(2n) {
         display: none;
@@ -457,13 +453,17 @@
         padding: 0 15px;
         padding-top: 20px;
     }
-    .header__list {
-        margin-left: 80px;
-    }
+
     .services__item-title, .services__item-text {
         padding-left: 40px;
     }
     .about__content-title {
         padding-right: 45px;
+    }
+    .landing__content-title {
+        padding: 0;
+    }
+    .landing__content-btn {
+        display: none;
     }
 }
